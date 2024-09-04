@@ -16,12 +16,12 @@
 title: Prajeesh Ag
 email: prajeeshag@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I develop earth system models and scientific softwares
+  A climate scientist with a passion for software development.
 twitter_username:
 github_username: prajeeshag
 minimal_mistakes_skin: dark
 search: false
-
+masthead_title: PrajIO
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -58,26 +58,29 @@ plugins:
 author:
   name: "Prajeesh Ag"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I develop earth system models and scientific softwares"
+  bio: "Climate scientist passionate about software development"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:prajeeshag@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/prajeeshag"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar icon-pad-right"
-      url: "https://prajeesh-ag.com"
+      url: "https://scholar.google.com/citations?user=DnkY2gIAAAAJ"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:prajeeshag@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/prajeeshag"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar icon-pad-right"
+      url: "https://scholar.google.com/citations?user=DnkY2gIAAAAJ"
 
 defaults:
   # _posts
