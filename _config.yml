@@ -16,7 +16,7 @@
 title: Prajeesh Ag
 email: prajeeshag@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A climate scientist with a passion for software development.
+  Climate scientist with a passion for software development.
 twitter_username:
 github_username: prajeeshag
 minimal_mistakes_skin: dark
@@ -33,6 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
