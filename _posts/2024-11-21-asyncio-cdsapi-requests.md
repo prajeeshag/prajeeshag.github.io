@@ -1,5 +1,5 @@
 ---
-title: "Concurrent ECMWF cdsapi requests using Python asynio"
+title: "Concurrent cdsapi requests using Python asynio"
 date: 2024-10-10
 categories: 
     - Blog
